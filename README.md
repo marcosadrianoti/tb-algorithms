@@ -70,26 +70,17 @@ Acesse o diretório do projeto com o comando `cd`:
 cd tb-algorithms
 ```
 
-Instale as dependências executando:
-
+crie o ambiente virtual:
 ```bash
-npm install
+python3 -m venv .venv
 ```
 
-Com o Docker instalado em sua máquina, execute:
-
+Ative o ambiente virtual:
 ```bash
-npm run compose:up
+source .venv/bin/activate
 ```
 
-Execute a aplicação:
-
+Instale as dependências no ambiente virtual:
 ```bash
-npm run start
-```
-
-Para exercutar os teste:
-
-```bash
-npm run test
+python3 -m pip install -r dev-requirements.txt
 ```
