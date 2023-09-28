@@ -1,14 +1,16 @@
-# Projeto Algorithms! :robot:
+# Projeto Python Algorithms! :robot:
 Projeto desenvolvido por mim durante o curso de Desenvolvimento Web na Trybe. Divulgado aqui como portfólio de aprendizado.
 
 <details>
 <summary><strong>Objetivos do projeto:</strong></summary>
  
-OBS: Front-end já disponível no projeto.
-  * Construir um back-end `dockerizado` utilizando modelagem de dados através do `Sequelize`.
+  * Resolver problemas e otimizar algoritmos desenvolvendo a capacidade de implementar soluções.
   * Verificar se eu era capaz de:
-    * Aplicar o método `TDD`.
-    * Utilizar `docker-compose`.
+    * Exercitar lógica.
+    * Interpretar problemas
+    * Interpretar um código legado
+    * Otimizar a resolução de problemas
+    * Resolver problemas/Otimizar algoritmos sob pressão.
 </details>
 <details>
 <summary><strong> Requisitos do projeto:</strong></summary>
