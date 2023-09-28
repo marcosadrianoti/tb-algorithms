@@ -16,37 +16,37 @@ Projeto desenvolvido por mim durante o curso de Desenvolvimento Web na Trybe. Di
 <details>
 <summary><strong> Requisitos do projeto:</strong></summary>
 
-  * Número de estudantes estudando no mesmo horário (Algoritmo de busca)
-    * 1.1 - Retorne, para uma entrada específica, a quantidade de estudantes presentes
-    * Retorne `None` se em `permanence_period` houver alguma entrada inválida
-    * Retorne `None` se `target_time` recebe um valor vazio
-    * A função deverá, por meio de análise empírica, se comportar como no máximo O(n) - complexidade assintótica linear
-  * Criptografia de inversões (Testes)
-    * Implementar adequadamente o teste para a função `encrypt_message`
-  * Palíndromos (Recursividade)
-    * Retorne `True` se a palavra passada por parâmetro for um palíndromo
-    * Retorne `False` se a palavra passada por parâmetro não for um palíndromo
-    * Retorne `False` se nenhuma palavra for passada por parâmetro
-  * Anagramas (Algoritmo de ordenação)
-    * Retorne `True` se as palavras passadas forem anagramas
-    * Retorne `False` se as palavras passadas por parâmetro não forem anagramas
-    * Retorne `false` se alguma das palavras passadas por parâmetro for uma string vazia
-    * A função deverá, por meio de análise empírica, se comportar como no máximo O(n log n) - complexidade assintótica linearítmica
-    * Retorne `True` se as palavras passadas forem anagramas sem diferenciar maiúsculas e minúsculas
+  * Número de estudantes estudando no mesmo horário (_Algoritmo de busca_)
+    * Retornar, para uma entrada específica, a quantidade de estudantes presentes.
+    * Retornar `None` se em `permanence_period` houver alguma entrada inválida.
+    * Retornar `None` se `target_time` recebe um valor vazio.
+    * A função deverá, por meio de análise empírica, se comportar como no máximo `O(n)` - _complexidade assintótica linear_
+  * Criptografia de inversões (_Testes_)
+    * Implementar adequadamente o teste para a função `encrypt_message`.
+  * Palíndromos (_Recursividade_)
+    * Retornar `True` se a palavra passada por parâmetro for um palíndromo.
+    * Retornar `False` se a palavra passada por parâmetro não for um palíndromo.
+    * Retornar `False` se nenhuma palavra for passada por parâmetro.
+  * Anagramas (_Algoritmo de ordenação_)
+    * Retornar `True` se as palavras passadas forem anagramas.
+    * Retornar `False` se as palavras passadas por parâmetro não forem anagramas.
+    * Retornar `false` se alguma das palavras passadas por parâmetro for uma string vazia.
+    * A função deverá, por meio de análise empírica, se comportar como no máximo `O(n log n)` - _complexidade assintótica linearítmica_
+    * Retornar `True` se as palavras passadas forem anagramas sem diferenciar maiúsculas e minúsculas.
   * Requisitos Bônus:
-    * Encontrando números repetidos (Algoritmo de busca)
-      * Retorne o número repetido se a função receber como parâmetro uma lista com números repetidos
-      * Retorne `False` se a função não receber nenhum parâmetro
-      * Retorne `False` se a função receber, como parâmetro, uma string
-      * Retorne `False` se a função receber, como parâmetro, uma lista sem números repetidos
-      * Retorne `False` se a função receber, como parâmetro, apenas um valor
-      * Retorne `False` se a função receber, como parâmetro, um número negativo
-      * A função deverá, por meio de análise empírica, se comportar como no máximo O(n log n) - complexidade assintótica linearítmica.
-    * Palíndromos (Iteratividade)
-      * Retorne `True` se a palavra passada como parâmetro for um palíndromo, executando uma função iterativa
-      * Retorne `False` se a palavra passada como parâmetro não for um palíndromo, executando uma função iterativa
-      * Retorne `False` se nenhuma palavra for passada como parâmetro, executando uma função iterativa
-      * A função deverá, por meio de análise empírica, se comportar como no máximo O(n) - complexidade assintótica linear.
+    * Encontrando números repetidos (_Algoritmo de busca_)
+      * Retornar o número repetido se a função receber como parâmetro uma lista com números repetidos.
+      * Retornar `False` se a função não receber nenhum parâmetro.
+      * Retornar `False` se a função receber, como parâmetro, uma string.
+      * Retornar `False` se a função receber, como parâmetro, uma lista sem números repetidos.
+      * Retornar `False` se a função receber, como parâmetro, apenas um valor.
+      * Retornar `False` se a função receber, como parâmetro, um número negativo.
+      * A função deverá, por meio de análise empírica, se comportar como no máximo `O(n log n)` - _complexidade assintótica linearítmica_
+    * Palíndromos (_Iteratividade_)
+      * Retornar `True` se a palavra passada como parâmetro for um palíndromo, executando uma função iterativa.
+      * Retornar `False` se a palavra passada como parâmetro não for um palíndromo, executando uma função iterativa.
+      * Retornar `False` se nenhuma palavra for passada como parâmetro, executando uma função iterativa.
+      * A função deverá, por meio de análise empírica, se comportar como no máximo `O(n)` - _complexidade assintótica linear_
 </details>
   
 ## Rodando o projeto localmente
